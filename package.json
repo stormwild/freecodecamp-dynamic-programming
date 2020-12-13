@@ -1,0 +1,13 @@
+{
+  "name": "freecodecamp-dynamic-programming",
+  "version": "1.0.0",
+  "description": "Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges",
+  "main": "index.js",
+  "repository": "https://github.com/stormwild/freecodecamp-dynamic-programming.git",
+  "author": "Alexander R. Torrijos <artorrijos@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node src/fib.js"
+  }
+}
